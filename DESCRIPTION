@@ -1,0 +1,9 @@
+Package: generalMixedEffectsModeling
+Title: General Mixed Effects Modeling
+Version: 0.1.0
+Authors@R: person("Yu-Hang", "Zhang", role = c("aut", "cre"), email = "ZHANGYH825@GMAIL.COM")
+Description: Configurable Gaussian mixed regression and binomial mixed classification workflows with common validation, diagnostics, and outputs.
+License: Proprietary
+Encoding: UTF-8
+Imports:
+    lme4
